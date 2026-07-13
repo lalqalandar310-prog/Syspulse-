@@ -20,6 +20,6 @@ Payment: Crypto (USDT/USDC)
 Download & More Info:
 ➡️ https://syspulse20.netlify.app
 
-Protect your system before it's too late.
+Protect your system before it's too late..
 
 

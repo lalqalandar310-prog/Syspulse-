@@ -99,7 +99,4 @@ License
 
 SysPulse is proprietary software. All rights reserved. Redistribution
 or resale of the license is prohibited.
-
----
-
-Built with Python. Protected by HMAC license validation.
+Protected by HMAC license validation.

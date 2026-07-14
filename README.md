@@ -35,6 +35,7 @@ A detailed, step-by-step setup guide is included inside the downloaded ZIP file.
 ## Links
 
 Official Website: https://syspulse20.netlify.app
+
 Purchase Link: [ clock  Here](https://phantom.sellix.cx/p/syspulse-5)
 
 For support or inquiries, please contact: darkssel@proton.me

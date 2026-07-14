@@ -1,6 +1,8 @@
 # Syspulse
 🛡️SysPulse – The Silent Guardian of Your Windows PC
+<h2>Screenshots</h2>
 
+<img src="telegram-alert.jpg" width="500">
 Is your computer acting strange?
 Are you worried about hidden programs, malware, or someone secretly plugging a USB into your server?
 

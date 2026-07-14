@@ -18,6 +18,7 @@ It runs silently in the background, uses less than 30MB RAM, and never touches y
 
 Price: $39 (One-time payment, lifetime license)
 Payment: Crypto (USDT/USDC)
+Don't worry about the setup — a detailed README guide is waiting for you inside the ZIP file.
 
 Download & More Info:
 ➡️ https://syspulse20.netlify.app

@@ -31,6 +31,4 @@ It is designed to be resource-efficient, using less than 30MB of RAM. It only mo
 
 ## Links
 - Official Website: https://syspulse20.netlify.app
-- Purchase: [(https://phantom.sellix.cx/p/syspulse-5) Purchase Here]
-
-Built with Python. Made for SysAdmins, by a SysAdmin.
+   [Purchase SysPulse Pro on Sellix](https://phantom.sellix.cx/p/syspulse-5)

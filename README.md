@@ -21,6 +21,7 @@ It is designed to be resource-efficient, using less than 30MB of RAM. It only mo
 ## Pricing
  Price: $39 (One-time payment, lifetime license)
  Payment: Crypto (USDT / USDC)
+ Money-Back Guarantee: If SysPulse doesn't work as described, you get a full refund within 7 days
  A detailed setup guide is included inside the downloaded ZIP file.
 
 ## How to Use

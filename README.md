@@ -56,4 +56,6 @@ Purchase SysPulse Pro: <a href="https://phantom.sellix.cx/p/syspulse-5">Buy on S
 
 Support: <a href="mailto:darkssel@proton.me">darkssel@proton.me</a>
 
+🛡️ Now on Product Hunt: https://www.producthunt.com/products/syspulse
+
 Built with Python for a lightweight and reliable footprint.

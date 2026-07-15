@@ -1,7 +1,7 @@
 # SysPulse
 
 SysPulse is a lightweight security monitor for Windows. It runs silently in the background and sends instant Telegram alerts when it detects unusual system activity.
----
+
 
 ### 📖 The Story Behind SysPulse
 Ever wondered how to monitor system security without wasting your RAM? 

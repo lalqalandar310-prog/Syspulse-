@@ -38,3 +38,5 @@ It is designed to be resource-efficient, using less than 30MB of RAM. It only mo
    [Purchase SysPulse Pro on Sellix](https://phantom.sellix.cx/p/syspulse-5)
 
   Email: darkssel@proton.me
+  
+Built with Python for a lightweight and reliable footprint.

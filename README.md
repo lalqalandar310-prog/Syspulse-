@@ -12,16 +12,16 @@ It is designed to be resource-efficient, using less than 30MB of RAM. It only mo
 ![Telegram Alert](telegram-alert.jpg)
 
 ## Features
-- Detects new or unknown processes and logs their full file paths.
-- Sends immediate alerts when a USB drive is connected.
-- Monitors Windows Defender status and alerts if it is disabled.
-- Tracks CPU, RAM, and Disk usage anomalies.
-- Sends optional daily security summaries to your phone.
+ Detects new or unknown processes and logs their full file paths.
+ Sends immediate alerts when a USB drive is connected.
+ Monitors Windows Defender status and alerts if it is disabled.
+ Tracks CPU, RAM, and Disk usage anomalies.
+ Sends optional daily security summaries to your phone.
 
 ## Pricing
-- Price: $39 (One-time payment, lifetime license)
-- Payment: Crypto (USDT / USDC)
-- A detailed setup guide is included inside the downloaded ZIP file.
+ Price: $39 (One-time payment, lifetime license)
+ Payment: Crypto (USDT / USDC)
+ A detailed setup guide is included inside the downloaded ZIP file.
 
 ## How to Use
 1. Purchase a license and download the package.
@@ -30,8 +30,8 @@ It is designed to be resource-efficient, using less than 30MB of RAM. It only mo
 4. Use `Kill.bat` to safely terminate the application.
 
 ## Links
-- Official Website: https://syspulse20.netlify.app
-- 
+ Official Website: https://syspulse20.netlify.app
+ 
    [Purchase SysPulse Pro on Sellix](https://phantom.sellix.cx/p/syspulse-5)
 
   Email: darkssel@proton.me

@@ -31,4 +31,5 @@ It is designed to be resource-efficient, using less than 30MB of RAM. It only mo
 
 ## Links
 - Official Website: https://syspulse20.netlify.app
+- 
    [Purchase SysPulse Pro on Sellix](https://phantom.sellix.cx/p/syspulse-5)

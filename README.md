@@ -26,12 +26,11 @@ It is designed to be resource-efficient, using less than 30MB of RAM. It only mo
 ## How to Use
 1. Purchase a license and download the package.
 2. Open `config.ini` and enter your Telegram Bot Token and License Key.
-3. Run `Start_SysPulse.bat` to begin monitoring.
-4. Use `Stop_SysPulse.bat` to safely terminate the application.
+3. Run `Run.bat` to begin monitoring.
+4. Use `Kill.bat` to safely terminate the application.
 
 ## Links
 - Official Website: https://syspulse20.netlify.app
-- Purchase: [(https://phantom.sellix.cx/p/syspulse-5)]
+- Purchase: [(https://phantom.sellix.cx/p/syspulse-5) Purchase Here]
 
----
 Built with Python. Made for SysAdmins, by a SysAdmin.

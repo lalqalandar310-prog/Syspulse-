@@ -27,7 +27,14 @@ It is designed to be resource-efficient, using less than 30MB of RAM. It only mo
 - Monitors Windows Defender status and alerts if it is disabled
 - Tracks CPU, RAM, and Disk usage anomalies
 - Sends optional daily security summaries to your phone
+- 
+- System Requirements
 
+- Windows 10 / 11 (64-bit)
+- Less than 30MB of RAM while running
+- Internet connection (only for Telegram alerts)
+- No Python installation required
+  
 - Whitelist Management
 
 - SysPulse includes a flexible whitelist -   - system to prevent false positives:

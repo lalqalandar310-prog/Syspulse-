@@ -45,7 +45,6 @@ Edit config.ini to customize:
 
 Example:
 
-[thresholds]
 cpu_threshold = 80
 
 ram_threshold = 85

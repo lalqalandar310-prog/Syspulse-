@@ -59,4 +59,4 @@ A detailed setup guide is included inside the downloaded ZIP file.
 - 📧 Support: [darkssel@proton.me](mailto:darkssel@proton.me)
 - 🛡️ Now on [Product Hunt](https://www.producthunt.com/products/syspulse)
 
-Built with Python for a lightweight and reliable footprint.
+Built with Python for a lightweight and reliable footprint..

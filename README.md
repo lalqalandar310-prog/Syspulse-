@@ -39,7 +39,7 @@ It is designed to be resource-efficient, using less than 30MB of RAM. It only mo
 
 - Edit config.ini to customize:
   
- Alert thresholds for CPU/RAM/Disk usage
+ - Alert thresholds for CPU/RAM/Disk usage
  Telegram bot token and chat ID
  Monitoring intervals
 

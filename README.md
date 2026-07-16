@@ -26,6 +26,21 @@ It is designed to be resource-efficient, using less than 30MB of RAM. It only mo
 - Monitors Windows Defender status and alerts if it is disabled
 - Tracks CPU, RAM, and Disk usage anomalies
 - Sends optional daily security summaries to your phone
+- 
+
+Edit config.ini to customize:
+- Alert thresholds for CPU/RAM/Disk usage
+- Telegram bot token and chat ID
+- Monitoring intervals
+
+
+Example:
+
+[thresholds]
+cpu_threshold = 80
+ram_threshold = 85
+disk_threshold = 90
+
 
 ## Screenshots
 

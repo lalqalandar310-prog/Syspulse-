@@ -27,6 +27,14 @@ It is designed to be resource-efficient, using less than 30MB of RAM. It only mo
 - Tracks CPU, RAM, and Disk usage anomalies
 - Sends optional daily security summaries to your phone
 - 
+Whitelist Management
+
+SysPulse includes a flexible whitelist system to prevent false positives:
+
+- Add or remove processes: Edit the whitelist in config.ini to add or remove trusted processes.
+- Reset whitelist: A reset_whitelist.bat file is included to quickly restore default whitelist settings.
+
+This ensures you only get alerts for genuinely suspicious activity, not your normal workflows.
 
 Edit config.ini to customize:
 - Alert thresholds for CPU/RAM/Disk usage

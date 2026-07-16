@@ -27,7 +27,7 @@ It is designed to be resource-efficient, using less than 30MB of RAM. It only mo
 - Monitors Windows Defender status and alerts if it is disabled
 - Tracks CPU, RAM, and Disk usage anomalies
 - Sends optional daily security summaries to your phone
-- 
+
 - System Requirements
 
 - Windows 10 / 11 (64-bit)

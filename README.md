@@ -22,19 +22,20 @@ It is designed to be resource-efficient, using less than 30MB of RAM. It only mo
 ## Features
 
 - Detects new or unknown processes and logs their full file paths
+- All alerts include the full file path and process name, so you know exactly what ran and where it came from.
 - Sends immediate alerts when a USB drive is connected
 - Monitors Windows Defender status and alerts if it is disabled
 - Tracks CPU, RAM, and Disk usage anomalies
 - Sends optional daily security summaries to your phone
 - 
-Whitelist Management
+- Whitelist Management
 
-SysPulse includes a flexible whitelist system to prevent false positives:
+-SysPulse includes a flexible whitelist -   -system to prevent false positives:
 
 - Add or remove processes: Edit the whitelist in config.ini to add or remove trusted processes.
 - Reset whitelist: A reset_whitelist.bat file is included to quickly restore default whitelist settings.
 
-This ensures you only get alerts for genuinely suspicious activity, not your normal workflows.
+-This ensures you only get alerts for genuinely suspicious activity, not your normal workflows.
 
 Edit config.ini to customize:
 - Alert thresholds for CPU/RAM/Disk usage
@@ -45,6 +46,7 @@ Edit config.ini to customize:
 Example:
 
 [thresholds]
+
 cpu_threshold = 80
 ram_threshold = 85
 disk_threshold = 90

@@ -38,6 +38,7 @@ It is designed to be resource-efficient, using less than 30MB of RAM. It only mo
 - This ensures you only get alerts for genuinely suspicious activity, not your normal workflows.
 
 - Edit config.ini to customize:
+  
  Alert thresholds for CPU/RAM/Disk usage
  Telegram bot token and chat ID
  Monitoring intervals

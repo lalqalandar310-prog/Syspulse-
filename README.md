@@ -49,7 +49,7 @@ A detailed setup guide is included inside the downloaded ZIP file.
 | | |
 |---|---|
 | Price | $39 (one-time payment, lifetime license) |
-| Payment | Crypto (USDT / USDC) |
+| Payment | Crypto (USDT / USDC) via Sellix for instant delivery and maximum privacy (no KYC) |
 | Guarantee | 7-day money-back guarantee — if SysPulse doesn't work as described, you get a full refund within 7 days |
 
 ## Links

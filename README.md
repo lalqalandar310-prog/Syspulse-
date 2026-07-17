@@ -8,7 +8,9 @@ SysPulse is a lightweight security monitor for Windows. It runs silently in the 
 
 ### The Story Behind SysPulse
 
-Ever wondered how to monitor system security without wasting your RAM? I've detailed the development journey, technical challenges, and how I optimized this monitor to be lighter than a browser tab in my latest article on Dev.to.
+Ever wondered how to monitor system security without wasting your RAM? I've detailed the development journey, technical challenges, and how I optimized this monitor to be lighter than a browser tab in my latest article:
+
+👉 Read the full technical breakdown on Dev.to: https://dev.to/darkssel/i-built-a-windows-security-monitor-that-uses-less-ram-than-your-browser-2kb1
 
 ### Overview
 

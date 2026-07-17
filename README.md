@@ -29,10 +29,10 @@ Sends optional daily security summaries to your phone.
 ### Whitelist Management
 
 SysPulse includes a flexible whitelist system to prevent false positives.  
-Add or remove processes by editing the whitelist in config.ini.  
-A reset_whitelist.bat file is included to quickly restore default settings.
+Add or remove processes: Edit the whitelist in config.ini.  
+Reset whitelist: A reset_whitelist.bat file is included.
 
-You can customize alert thresholds for CPU/RAM/Disk, Telegram bot token, chat ID, and monitoring intervals in config.ini.
+You can customize alert thresholds, Telegram bot token, chat ID, and monitoring intervals in config.ini.
 
 ### Screenshots
 
@@ -58,8 +58,9 @@ Guarantee: 7-day money-back guarantee
 
 ### Links
 
-Official Website: https://syspulse20.netlify.app  
-Dev.to Article: https://dev.to/darkssel/i-built-a-windows-security-monitor-that-uses-less-ram-than-your-browser-2kb1  
-Product Hunt: https://www.producthunt.com/products/syspulse
+- 🌐 Official Website: [syspulse20.netlify.app](https://syspulse20.netlify.app)
+- 🛒 Purchase SysPulse Pro: [Buy on Sellix](https://phantom.sellix.cx/p/syspulse-5)
+- 📧 Support: [darkssel@proton.me](mailto:darkssel@proton.me)
+- 🛡️ Now on [Product Hunt](https://www.producthunt.com/products/syspulse)
 
 Built with Python for a lightweight and reliable footprint.

@@ -59,7 +59,7 @@ A detailed setup guide is included inside the downloaded ZIP file.
 | | |
 |---|---|
 | Price | $39 (one-time payment, lifetime license) |
-| Payment | Crypto (USDT / USDC) via Sellix for instant delivery and maximum privacy (no KYC) |
+| Payment | Crypto (USDT / USDC) — instant delivery, no KYC) |
 | Guarantee | 7-day money-back guarantee |
 
 ## Links

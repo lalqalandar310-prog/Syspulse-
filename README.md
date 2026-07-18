@@ -8,7 +8,7 @@ SysPulse is a lightweight security monitor for Windows. It runs silently in the 
 
 Ever wondered how to monitor system security without wasting your RAM? I've detailed the development journey, technical challenges, and how I optimized this monitor to be lighter than a browser tab in my latest article:
 
-👉 [Read the full technical breakdown on dev.to](https://dev.to/darkssel/i-built-a-windows-security-monitor-that-uses-less-ram-than-your-browser-2kb1)
+👉 [Read the full technical breakdown on Dev.to](https://dev.to/darkssel/i-built-a-windows-security-monitor-that-uses-less-ram-than-your-browser-2kb1)
 
 ---
 
@@ -37,6 +37,42 @@ SysPulse includes a flexible whitelist system to prevent false positives.
 
 You can also customize alert thresholds, your Telegram bot token, chat ID, and monitoring intervals in `config.ini`.
 
+## SysPulse vs Traditional Antivirus
+
+Traditional antivirus solutions are designed to scan, detect, and block known threats. They are powerful tools, but many of them run large background services, consume more resources, and focus mainly on malware detection.
+
+SysPulse takes a different approach.
+
+Instead of replacing your antivirus, SysPulse works as a lightweight security awareness layer. It monitors real system behavior, detects unusual activity, and instantly alerts you through Telegram when something important happens.
+
+SysPulse focuses on:
+
+- New or unknown processes with full file paths
+- Unexpected USB connections
+- Windows Defender status changes
+- System resource anomalies
+- Real-time security notifications
+
+Lightweight. Private. Focused.
+
+## SysPulse vs Heavy Monitoring Tools
+
+Many advanced monitoring platforms provide dashboards, cloud systems, databases, and complex analytics. These solutions can be valuable for large organizations, but they may be unnecessary for users who simply need fast and reliable security alerts.
+
+SysPulse is built around simplicity.
+
+It runs quietly in the background, uses less than 30MB of RAM, requires no cloud dashboard, and sends only the alerts that matter directly to your phone.
+
+Instead of complexity, SysPulse provides:
+
+- Minimal resource usage
+- Simple configuration
+- Local monitoring
+- Instant Telegram alerts
+- A focused security experience
+
+A lightweight security monitor designed for people who want visibility without unnecessary complexity.
+
 ## Screenshots
 
 | Console View | Telegram Alert |
@@ -59,7 +95,7 @@ A detailed setup guide is included inside the downloaded ZIP file.
 | | |
 |---|---|
 | Price | $39 (one-time payment, lifetime license) |
-| Payment | Crypto (USDT / USDC) — instant delivery, no KYC) |
+| Payment | Crypto (USDT / USDC) via Sellix for instant delivery and maximum privacy (no KYC) |
 | Guarantee | 7-day money-back guarantee |
 
 ## Links

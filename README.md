@@ -41,8 +41,7 @@ You can also customize alert thresholds, your Telegram bot token, chat ID, and m
 
 Traditional antivirus solutions are designed to scan, detect, and block known threats. They are powerful tools, but many of them run large background services, consume more resources, and focus mainly on malware detection.
 
-SysPulse takes a different approach.
-
+It complements your existing antivirus instead of replacing it.
 Instead of replacing your antivirus, SysPulse works as a lightweight security awareness layer. It monitors real system behavior, detects unusual activity, and instantly alerts you through Telegram when something important happens.
 
 SysPulse focuses on:

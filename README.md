@@ -105,4 +105,4 @@ If you want a lightweight, privacy-focused security monitor that instantly alert
 - 📧 Support: [darkssel@proton.me](mailto:darkssel@proton.me)
 - 🛡️ Now on [Product Hunt](https://www.producthunt.com/products/syspulse)
 
-Built with Python for a lightweight and reliable footprint.
+Stay informed. Stay protected. Stay in control with SysPulse.

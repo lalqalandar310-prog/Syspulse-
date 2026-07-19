@@ -90,6 +90,15 @@ A detailed setup guide is included inside the downloaded ZIP file.
 
 ## Ready to Secure Your Windows PC?
 If you want a lightweight, privacy-focused security monitor that instantly alerts you about suspicious activity, SysPulse is ready to protect your system.
+## License & Activation
+Every license is activated online and locked to a single machine. Once your key is activated on your PC, it can't be shared or reused elsewhere — keeping your license, and your license fee, protected.
+
+- One license, one machine
+- Activation happens automatically the first time you run SysPulse with your key
+- No manual steps required beyond entering your license key in `config.ini`
+
+If you need to move your license to a new machine (for example, after a hardware upgrade or a clean Windows install), contact support and we'll help you transfer it.
+
 ## Pricing
 
 | | |

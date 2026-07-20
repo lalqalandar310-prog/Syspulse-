@@ -1,117 +1,95 @@
 # SysPulse
 
-Lightweight Windows Security Monitor with Instant Telegram Alerts
+**Lightweight Windows Security Monitor → Instant Telegram Alerts**
 
 SysPulse is a lightweight security monitor for Windows. It runs silently in the background and sends instant Telegram alerts when it detects unusual system activity.
 
-### 📖 The Story Behind SysPulse
-
-Ever wondered how to monitor system security without wasting your RAM? I've detailed the development journey, technical challenges, and how I optimized this monitor to be lighter than a browser tab in my latest article:
-
-👉 [Read the full technical breakdown on Dev.to](https://dev.to/darkssel/i-built-a-windows-security-monitor-that-uses-less-ram-than-your-browser-2kb1)
-
 ---
 
-## Overview
+## What is SysPulse?
 
-Are you worried about hidden programs, malware, or unauthorized USB access on your PC?
+SysPulse monitors your system in real time and alerts you via Telegram when:
 
-SysPulse takes a different approach by focusing on real-time behavioral monitoring. It watches your system 24/7 and notifies you immediately when something unusual happens.
+- New or unknown processes appear (with full file paths)
+- A USB drive is connected or removed
+- Windows Defender is turned off
+- CPU, RAM, or Disk usage becomes unusually high
 
-It is designed to be resource-efficient, using less than 30MB of RAM. It only monitors system metadata and processes; it does not read, access, or upload any of your personal files.
+No cloud dashboard. No heavy background services. Just important alerts sent directly to your phone.
 
-## Features
-
-- Detects new or unknown processes and logs their full file path and process name
-- Sends immediate alerts when a USB drive is connected
-- Monitors Windows Defender status and alerts if it is disabled
-- Tracks CPU, RAM, and Disk usage anomalies
-- Sends optional daily security summaries to your phone
-
-### Whitelist Management
-
-SysPulse includes a flexible whitelist system to prevent false positives.
-
-- Add or remove processes: edit the whitelist directly in `config.ini`
-- Reset whitelist: a `reset_whitelist.bat` file is included
-
-You can also customize alert thresholds, your Telegram bot token, chat ID, and monitoring intervals in `config.ini`.
-
-## Why Choose SysPulse Instead of a Traditional Antivirus?
-
-Traditional antivirus solutions are designed to scan, detect, and block known threats. They are powerful tools, but many of them run large background services, consume more resources, and focus mainly on malware detection.
-
-SysPulse complements your existing antivirus instead of replacing it. It works as a lightweight security awareness layer that monitors real system behavior, detects unusual activity, and instantly alerts you through Telegram when something important happens.
-
-SysPulse focuses on:
-
-- New or unknown processes with full file paths
-- Unexpected USB connections
-- Windows Defender status changes
-- System resource anomalies
-- Real-time security notifications
-
-Lightweight. Private. Focused.
-
-## Why Choose SysPulse Instead of Heavy Monitoring Tools?
-
-Many advanced monitoring platforms provide dashboards, cloud systems, databases, and complex analytics. These solutions can be valuable for large organizations, but they may be unnecessary for users who simply need fast and reliable security alerts.
-
-SysPulse is built around simplicity.
-
-It runs quietly in the background, uses less than 30MB of RAM, requires no cloud dashboard, and sends only the alerts that matter directly to your phone.
-
-Instead of complexity, SysPulse provides:
-
-- Minimal resource usage
-- Simple configuration
-- Local monitoring
-- Instant Telegram alerts
-- A focused security experience
-
-A lightweight security monitor designed for people who want visibility without unnecessary complexity.
+---
 
 ## Screenshots
 
 | Console View | Telegram Alert |
-|:---:|:---:|
-| [![Console View](telegram.jpg)](telegram.jpg) | [![Telegram Alert](telegram-alert.jpg)](telegram-alert.jpg) |
+|--------------|----------------|
+| [![Console View](console.jpg)](console.jpg) | [![Telegram Alert](telegram-alert.jpg)](telegram-alert.jpg) |
+
+*(Click images to enlarge)*
+
+---
+
+## Why SysPulse?
+
+| Feature | SysPulse | Traditional Antivirus |
+|---------|----------|----------------------|
+| RAM Usage | ~30 MB | 200–600 MB+ |
+| Telegram Alerts | Instant | Rare |
+| USB Detection | Yes | Often missing |
+| Process Monitoring | Full path + name | Limited |
+| Configuration | One `config.ini` file | Complex dashboards |
+
+SysPulse is not a replacement for your antivirus. It works alongside it as a lightweight security watchdog that barks at the right moment.
+
+---
 
 ## How to Use
 
-No Python installation is required. The core is compiled into a standalone executable.
+1. Buy a license from [Sellix](https://phantom.sellix.cx/p/syspulse-5)
+2. Extract the package and edit `config.ini` as described in the included README
+3. Run `Run.bat` to start monitoring. To stop, run `Kill.bat`
 
-1. Purchase a license and download the package.
-2. Open `config.ini` and enter your Telegram Bot Token and License Key.
-3. Run `Run.bat` to begin monitoring.
-4. Use `Kill.bat` to safely terminate the application.
+No Python installation needed. Everything is compiled into a standalone executable.
 
-A detailed setup guide is included inside the downloaded ZIP file.
+*A detailed setup guide is included inside the purchased package.*
 
-## Ready to Secure Your Windows PC?
-If you want a lightweight, privacy-focused security monitor that instantly alerts you about suspicious activity, SysPulse is ready to protect your system.
+---
+
 ## License & Activation
-Every license is activated online and locked to a single machine. Once your key is activated on your PC, it can't be shared or reused elsewhere — keeping your license, and your license fee, protected.
 
-- One license, one machine
-- Activation happens automatically the first time you run SysPulse with your key
-- No manual steps required beyond entering your license key in `config.ini`
+- One license = one machine (HWID-locked)
+- Automatic online activation on first run
+- Once activated, the key cannot be used on another PC
+- Need to transfer? Contact [support](mailto:darkssel@proton.me)
 
-If you need to move your license to a new machine (for example, after a hardware upgrade or a clean Windows install), contact support and we'll help you transfer it.
+| Plan | Price | Payment | Guarantee |
+|------|-------|---------|-----------|
+| Lifetime | $39 | Crypto (USDT/USDC) via Sellix | 7-day money-back |
 
-## Pricing
+---
 
-| | |
-|---|---|
-| Price | $39 (one-time payment, lifetime license) |
-| Payment | Crypto (USDT / USDC) via Sellix for instant delivery and maximum privacy (no KYC) |
-| Guarantee | 7-day money-back guarantee |
+## Privacy
+
+- No file content scanning — only process metadata and system events
+- No data collection — everything stays local
+- Alerts go directly to your Telegram via HTTPS
+
+---
+
+## Technical Story
+
+Read how I built SysPulse and kept it under 30 MB:  
+[I built a Windows security monitor that uses less RAM than your browser](https://dev.to/darkssel/i-built-a-windows-security-monitor-that-uses-less-ram-than-your-browser-2kb1)
+
+---
 
 ## Links
 
-- 🌐 Official Website: [syspulse20.netlify.app](https://syspulse20.netlify.app)
-- 🛒 Purchase SysPulse Pro: [Buy on Sellix](https://phantom.sellix.cx/p/syspulse-5)
-- 📧 Support: [darkssel@proton.me](mailto:darkssel@proton.me)
-- 🛡️ Now on [Product Hunt](https://www.producthunt.com/products/syspulse)
+- Website: [syspulse20.netlify.app](https://syspulse20.netlify.app)
+- Purchase: [Sellix](https://phantom.sellix.cx/p/syspulse-5)
+- Product Hunt: [SysPulse on Product Hunt](https://www.producthunt.com/products/syspulse)
+- Support: [darkssel@proton.me](mailto:darkssel@proton.me)
 
-Stay informed. Stay protected. Stay in control with SysPulse.
+---
+
+*Made by Darksel*

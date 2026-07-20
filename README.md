@@ -22,8 +22,8 @@ No cloud dashboard. No heavy background services. Just important alerts sent dir
 ## Screenshots
 
 | Console View | Telegram Alert |
-|--------------|----------------|
-| [![Console View](console.jpg)](console.jpg) | [![Telegram Alert](telegram-alert.jpg)](telegram-alert.jpg) |
+|:---:|:---:|
+| [![Console View](telegram.jpg)](telegram.jpg) | [![Telegram Alert](telegram-alert.jpg)](telegram-alert.jpg) |
 
 *(Click images to enlarge)*
 

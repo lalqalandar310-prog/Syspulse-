@@ -90,7 +90,7 @@ If you're curious about why and how I built this thing, I wrote a technical brea
 ## Links
 
 - Website: [syspulse20.netlify.app](https://syspulse20.netlify.app)
-- Purchase: [syspulse](https://syspulse20.netlify.app))
+- Purchase: [syspulse](https://syspulse20.netlify.app)
 - Product Hunt: [SysPulse on Product Hunt](https://www.producthunt.com/products/syspulse)
 - Support: [darkssel@proton.me](mailto:darkssel@proton.me)
 

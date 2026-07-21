@@ -51,6 +51,16 @@ It's not here to replace your antivirus. It's here to watch the things your anti
 
 ---
 
+### 📚 Articles & Guides
+
+Want to know more about the story and technical details behind SysPulse? Check out my latest articles:
+
+- 📖 **[How I gave my Windows PC a silent bodyguard that texts me on Telegram](https://medium.com/@darkssel/how-i-gave-my-windows-pc-a-silent-bodyguard-that-texts-me-on-telegram-0289c1b60ee1)** *(Medium)*  
+  The story, philosophy, and practical use cases of building a lightweight security monitor.
+
+- 💻 **[A Windows User's Guide to Catching Suspicious Processes](https://dev.to/darkssel/a-windows-users-guide-to-catching-suspicious-processes-before-they-cause-trouble-cb1)** *(Dev.to)*  
+  A technical deep-dive into how the behavior-based monitoring works and how to deploy it yourself.
+
 ## How to use it
 
 1. Grab a license from the [syspulse](https://syspulse20.netlify.app)

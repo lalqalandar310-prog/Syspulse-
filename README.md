@@ -6,9 +6,15 @@ SysPulse sits quietly in the background of your Windows PC. It doesn't bother yo
 
 ---
 
-## What it actually does
+## 💡 Kept lean on purpose
 
-I built SysPulse because I was tired of bloated security software that slowed down my machine. This is what it watches for me, 24/7:
+SysPulse is not a bloated security suite. It focuses on a few critical events and sends them straight to your phone. No feature creep, no cloud dashboards — just a quiet, dependable watchman.
+
+We believe a security tool should be invisible when you don't need it and lightning-fast when you do. That's why SysPulse stays under 30MB of RAM and never adds features that don't directly protect your machine. No bloat, no ads, no distractions. Just quiet, reliable monitoring.
+
+---
+
+## What it actually does
 
 - New processes that suddenly appear (with their full file path)
 - USB drives being plugged in or removed
@@ -51,23 +57,13 @@ It's not here to replace your antivirus. It's here to watch the things your anti
 
 ---
 
-### 📚 Articles & Guides
-
-Want to know more about the story and technical details behind SysPulse? Check out my latest articles:
-
-- 📖 **[How I gave my Windows PC a silent bodyguard that texts me on Telegram](https://medium.com/@darkssel/how-i-gave-my-windows-pc-a-silent-bodyguard-that-texts-me-on-telegram-0289c1b60ee1)** *(Medium)*  
-  The story, philosophy, and practical use cases of building a lightweight security monitor.
-
-- 💻 **[A Windows User's Guide to Catching Suspicious Processes](https://dev.to/darkssel/a-windows-users-guide-to-catching-suspicious-processes-before-they-cause-trouble-cb1)** *(Dev.to)*  
-  A technical deep-dive into how the behavior-based monitoring works and how to deploy it yourself.
-
 ## How to use it
 
-1. Grab a license from the [syspulse](https://syspulse20.netlify.app)
-2. Open `config.ini` — put your Telegram bot token, chat ID, and license key. (Don't worry, the downloaded package includes a guide that walks you through every step.)
+1. Download the package from the [official website](https://syspulse20.netlify.app).
+2. Open `config.ini` — put your Telegram bot token, chat ID, and license key. (A guide is included in the download.)
 3. Run `Run.bat`. To stop it, run `Kill.bat`.
 
-That's it. No Python, no setup headaches. Everything's compiled into a single `.exe`.
+No Python, no setup headaches. Everything's compiled into a single `.exe`.
 
 ---
 
@@ -75,18 +71,14 @@ That's it. No Python, no setup headaches. Everything's compiled into a single `.
 
 - One license, one machine (HWID-locked).
 - Activates automatically the first time you run it with your key.
-- Once active, the key can't be used elsewhere. Keeps things fair for everyone.
+- Once active, the key can't be used elsewhere.
 - Moving to a new PC? Shoot an email to [support](mailto:darkssel@proton.me) and we'll sort it out.
-
-| Plan | Price | Payment | Guarantee |
-|------|-------|---------|-----------|
-| Lifetime | $39 | Crypto (USDT/USDC) via Sellix | 7-day money-back |
 
 ---
 
 ## Privacy
 
-This matters. SysPulse does not look at your files. It only watches system metadata — process names, USB events, Windows Defender status. Nothing is collected, nothing is uploaded. Your alerts go directly to your Telegram over HTTPS.
+SysPulse does not look at your files. It only watches system metadata — process names, USB events, Windows Defender status. Nothing is collected, nothing is uploaded. Your alerts go directly to your Telegram over HTTPS.
 
 ---
 
@@ -100,7 +92,6 @@ If you're curious about why and how I built this thing, I wrote a technical brea
 ## Links
 
 - Website: [syspulse20.netlify.app](https://syspulse20.netlify.app)
-- Purchase: [syspulse](https://syspulse20.netlify.app)
 - Product Hunt: [SysPulse on Product Hunt](https://www.producthunt.com/products/syspulse)
 - Support: [darkssel@proton.me](mailto:darkssel@proton.me)
 

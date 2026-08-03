@@ -6,7 +6,7 @@ SysPulse sits quietly in the background of your Windows PC. It doesn't bother yo
 
 ---
 
-💡 Kept lean on purpose
+*💡 **Kept lean on purpose:**
 
 SysPulse is not a bloated security suite. It focuses on a few critical events and sends them straight to your phone. No feature creep, no cloud dashboards — just a quiet, dependable watchman.
 

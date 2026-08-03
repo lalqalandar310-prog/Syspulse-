@@ -58,6 +58,11 @@ It's not here to replace your antivirus. It's here to watch the things your anti
 | Configuration | One config.ini file | Complex dashboards |
 
 ---
+## SysPulse vs. Process Explorer
+
+We get asked this a lot. The short answer: Process Explorer is your microscope. SysPulse is your guard dog. One analyzes. One watches. They work best together.
+
+Read the full comparison on [Dev.to](https://dev.to/darkssel/syspulse-vs-process-explorer-two-windows-monitoring-tools-two-completely-different-philosophies-xxxxx).
 
 ## How to use it
 

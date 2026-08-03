@@ -11,7 +11,9 @@ SysPulse sits quietly in the background of your Windows PC. It doesn't bother yo
 SysPulse is not a bloated security suite. It focuses on a few critical events and sends them straight to your phone. No feature creep, no cloud dashboards — just a quiet, dependable watchman.
 
 We believe a security tool should be invisible when you don't need it and lightning-fast when you do. That's why SysPulse stays under 30MB of RAM and never adds features that don't directly protect your machine. No bloat, no ads, no distractions. Just quiet, reliable monitoring.
+Still here. Still silent. Still watching.
 
+SysPulse keeps doing what it does best—staying out of your way until something needs your attention.
 ---
 
 ## What it actually does

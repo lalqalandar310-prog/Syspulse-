@@ -62,7 +62,7 @@ It's not here to replace your antivirus. It's here to watch the things your anti
 
 We get asked this a lot. The short answer: Process Explorer is your microscope. SysPulse is your guard dog. One analyzes. One watches. They work best together.
 
-Read the full comparison on [Dev.to](https://dev.to/darkssel/syspulse-vs-process-explorer-two-windows-monitoring-tools-two-completely-different-philosophies-xxxxx).
+Read the full comparison on [Dev.to](https://dev.to/darkssel/syspulse-vs-process-explorer-two-windows-monitoring-tools-two-completely-different-philosophies-70l).
 
 ## How to use it
 

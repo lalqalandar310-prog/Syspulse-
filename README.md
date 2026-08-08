@@ -4,7 +4,7 @@ A lightweight Windows security monitor that sends you instant Telegram alerts.
 
 SysPulse sits quietly in the background of your Windows PC. It doesn't bother you, doesn't scan your files, and doesn't eat up your RAM. The moment something unusual happens, you know about it — straight to your phone.
 
----
+
 
 *💡 **Kept lean on purpose:**
 

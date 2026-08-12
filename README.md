@@ -85,6 +85,8 @@ No Python, no setup headaches. Everything's compiled into a single `.exe`.
 
 SysPulse does not look at your files. It only watches system metadata — process names, USB events, Windows Defender status. Nothing is collected, nothing is uploaded. Your alerts go directly to your Telegram over HTTPS.
 
+SysPulse also works fully offline. All events are logged locally in a `syspulse.log` file, even when your PC has no internet connection. The internet is only used for sending Telegram alerts—everything else stays on your machine.
+
 ---
 
 ## The story behind it

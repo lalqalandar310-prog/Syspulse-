@@ -4,9 +4,7 @@ A lightweight Windows security monitor that sends you instant Telegram alerts.
 
 SysPulse sits quietly in the background of your Windows PC. It doesn't bother you, doesn't scan your files, and doesn't eat up your RAM. The moment something unusual happens, you know about it — straight to your phone.
 
-
-
-*💡 **Kept lean on purpose:**
+*💡 **Kept lean on purpose:***
 
 SysPulse is not a bloated security suite. It focuses on a few critical events and sends them straight to your phone. No feature creep, no cloud dashboards — just a quiet, dependable watchman.
 
@@ -18,7 +16,6 @@ Still here. Still silent. Still watching. SysPulse keeps doing what it does best
 
 - New processes that suddenly appear (with their full file path)
 - USB drives being plugged in or removed
-- Windows Defender getting turned off
 - CPU, RAM, or Disk usage going crazy
 
 No cloud. No dashboard. Just a ping on Telegram when something smells fishy.
@@ -27,7 +24,7 @@ No cloud. No dashboard. Just a ping on Telegram when something smells fishy.
 
 ## Where it fits
 
-Think of SysPulse as a lightweight Windows process monitor. Something runs on your PC? You'll know. A USB alert Telegram message pops up the second someone plugs in a flash drive. The whole thing is designed to be a super lightweight security tool — under 30MB of RAM, always. It even has a Windows startup checker that tells you when a program tries to hide in your boot sequence, and a Defender status monitor in case your antivirus decides to quit without telling you.
+Think of SysPulse as a lightweight Windows process monitor. Something runs on your PC? You'll know. A USB alert Telegram message pops up the second someone plugs in a flash drive. The whole thing is designed to be a super lightweight security tool — under 30MB of RAM, always. It even has a Windows startup checker that tells you when a program tries to hide in your boot sequence.
 
 It's not here to replace your antivirus. It's here to watch the things your antivirus often misses.
 
@@ -52,7 +49,6 @@ It's not here to replace your antivirus. It's here to watch the things your anti
 | USB Detection | ✅ Yes | ❌ Usually missing |
 | Process Monitoring | ✅ Full path + name | ⚠️ Limited |
 | Startup Checker | ✅ Yes | ❌ No |
-| Defender Status | ✅ Yes | ❌ No |
 | Configuration | One config.ini file | Complex dashboards |
 
 ---
@@ -64,7 +60,7 @@ Read the full comparison on [Dev.to](https://dev.to/darkssel/syspulse-vs-process
 
 ## How to use it
 
-1. Download the package from the [official website](https://syspulse20.netlify.app).
+1. Download the package from the [official website](https://syspulse.pro).
 2. Open `config.ini` — put your Telegram bot token, chat ID, and license key. (A guide is included in the download.)
 3. Run `Run.bat`. To stop it, run `Kill.bat`.
 
@@ -83,7 +79,7 @@ No Python, no setup headaches. Everything's compiled into a single `.exe`.
 
 ## Privacy
 
-SysPulse does not look at your files. It only watches system metadata — process names, USB events, Windows Defender status. Nothing is collected, nothing is uploaded. Your alerts go directly to your Telegram over HTTPS.
+SysPulse does not look at your files. It only watches system metadata — process names, USB events. Nothing is collected, nothing is uploaded. Your alerts go directly to your Telegram over HTTPS.
 
 SysPulse also works fully offline. All events are logged locally in a `syspulse.log` file, even when your PC has no internet connection. The internet is only used for sending Telegram alerts—everything else stays on your machine.
 
@@ -98,7 +94,7 @@ If you're curious about why and how I built this thing, I wrote a technical brea
 
 ## Links
 
-- Website: [syspulse20.netlify.app](https://syspulse20.netlify.app)
+- Website: [syspulse.pro](https://syspulse.pro)
 - Product Hunt: [SysPulse on Product Hunt](https://www.producthunt.com/products/syspulse)
 - Support: [darkssel@proton.me](mailto:darkssel@proton.me)
 

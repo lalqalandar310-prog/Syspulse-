@@ -44,7 +44,7 @@ It's not here to replace your antivirus. It's here to watch the things your anti
 
 | Feature | SysPulse | Traditional Antivirus |
 |---------|----------|----------------------|
-| RAM Usage | ~30 MB | 200-600 MB+ |
+| RAM Usage | ~15-25 MB | 200-600 MB+ |
 | Telegram Alerts | ✅ Instant | ❌ Rarely |
 | USB Detection | ✅ Yes | ❌ Usually missing |
 | Process Monitoring | ✅ Full path + name | ⚠️ Limited |

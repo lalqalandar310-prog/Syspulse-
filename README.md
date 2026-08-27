@@ -14,6 +14,8 @@ No bloat, no ads, no distractions. Just quiet, reliable monitoring.
 
 Still here. Still silent. Still watching.
 
+---
+
 ## What it actually does
 
 - Detects new processes and shows their full file paths
@@ -59,7 +61,7 @@ SysPulse is not designed to replace antivirus software. Instead, it provides add
 
 SysPulse and traditional antivirus software serve different primary purposes.
 
-| Feature | SysPulse | Traditional | Feature | SysPulse | Traditional Antivirus |
+| Feature | SysPulse | Traditional Antivirus |
 |---------|----------|----------------------|
 | Primary focus | Windows system activity monitoring | Malware detection and protection |
 | RAM Usage | Typically ~12–25 MB | Usually higher |
@@ -77,7 +79,9 @@ SysPulse is intended to complement, not replace, your antivirus or other securit
 
 We get asked this a lot.
 
-The short answer: **Process Explorer is your microscope. SysPulse is your guard dog.**
+The short answer:
+
+**Process Explorer is your microscope. SysPulse is your guard dog.**
 
 Process Explorer is excellent for manually inspecting processes and system activity.
 

@@ -67,8 +67,8 @@ SysPulse and traditional antivirus software serve different primary purposes.
 | RAM Usage | Typically ~12–25 MB | Usually higher |
 | Telegram Alerts | ✅ Built-in | ❌ Not a standard feature |
 | Process Monitoring | ✅ Full path + name | ⚠️ Primarily security-focused |
-| USB Event Monitoring | ✅ Dedicated alerts | ⚠️ Available in some products |
-| Startup Monitoring | ✅ Detects startup changes | ⚠️ Varies by product |
+| USB Monitoring | ✅ Dedicated real-time alerts | ⚠️ Depends on the product |
+| Startup Monitoring | ✅ Detects startup changes | ⚠️ Depends on the product |
 | Configuration | Simple `config.ini` | Usually more complex |
 
 SysPulse is intended to complement, not replace, your antivirus or other security software.

@@ -62,8 +62,8 @@ SysPulse and traditional antivirus software serve different primary purposes.
 | Feature | SysPulse | Traditional Antivirus |
 |---------|----------|----------------------|
 | Primary focus | System activity visibility | Malware detection and protection |
-| RAM Usage | Typically ~12–25 MB | Varies by product |
-| Telegram Alerts | ✅ Yes | Varies |
+| RAM Usage | Typically ~12–25 MB | Generally higher |
+| Telegram Alerts | ✅ Yes | Not typically built-in |
 | Process Monitoring | ✅ Full path + name | Varies |
 | USB Event Monitoring | ✅ Yes | Varies |
 | Startup Monitoring | ✅ Yes | Varies |

@@ -23,7 +23,7 @@ Still here. Still silent. Still watching.
 - Monitors CPU, RAM, and Disk usage
 - Monitors startup activity and detects changes
 - Sends Telegram notifications for monitored events
-- Keeps monitoring locally even when there is no internet connection
+- Continues monitoring locally after license verification, even if the PC temporarily has no internet connection
 
 No cloud dashboard. No unnecessary complexity. Just useful system activity alerts delivered to Telegram.
 
@@ -109,8 +109,10 @@ Everything is compiled into a single `.exe`.
 ## License & Activation
 
 - One license, one machine (HWID-locked).
-- Activates automatically the first time you run it with your key.
-- Once activated, the key can't be used elsewhere.
+- The license is verified automatically when SysPulse starts.
+- An active internet connection is required each time SysPulse is launched for license verification, even if the license was successfully verified during a previous launch.
+- Once verification is complete, SysPulse monitoring runs locally on your PC.
+- Internet access is also required for Telegram alerts to be delivered.
 - Moving to a new PC? Contact [support](mailto:darkssel@proton.me) and we'll help you with the process.
 
 ---
@@ -130,7 +132,7 @@ SysPulse does not inspect your personal files or upload monitored system activit
 
 Events are logged locally in a `syspulse.log` file.
 
-SysPulse can continue monitoring locally even when your PC has no internet connection. Internet access is only required when SysPulse needs to send Telegram notifications.
+After license verification, SysPulse monitoring runs locally on your PC. However, an internet connection is required when SysPulse starts to verify the license and when Telegram alerts need to be delivered.
 
 Your Telegram alerts are sent directly to Telegram over HTTPS.
 
@@ -140,7 +142,7 @@ Your Telegram alerts are sent directly to Telegram over HTTPS.
 
 If you're curious about why and how I built this thing, I wrote a technical breakdown on Dev.to:
 
-[I built a Windows security monitor that uses less RAM than your browser](https://dev.to/darkssel/i-built-a-windows-security-monitor-that-uses-less-ram-than-your-browser-2kb1)
+[I built a Windows security monitor that uses less RAM than your browser](https://dev.to/darkssel/i-built-a-windows-security-monitor-that-uses-less-RAM-than-your-browser-2kb1)
 
 ---
 

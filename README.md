@@ -148,11 +148,11 @@ If you're curious about why and how I built this thing, I wrote a technical brea
 
 ## Links
 
-- Website: "syspulse.pro" (https://syspulse.pro)
-- GitHub: "SysPulse on GitHub" (https://github.com/lalqalandar310-prog/Syspulse-)
-- Dev.to: "SysPulse on Dev.to" (https://dev.to/darkssel)
-- Medium: "SysPulse on Medium" (https://medium.com/@darkssel)
-- Product Hunt: "SysPulse on Product Hunt" (https://www.producthunt.com/products/syspulse)
-- Support: "darkssel@proton.me" (mailto:darkssel@proton.me)
+- Website: [syspulse.pro](https://syspulse.pro)
+- GitHub: [SysPulse on GitHub](https://github.com/lalqalandar310-prog/Syspulse-)
+- Dev.to: [SysPulse on Dev.to](https://dev.to/darkssel)
+- Medium: [SysPulse on Medium](https://medium.com/@darkssel)
+- Product Hunt: [SysPulse on Product Hunt](https://www.producthunt.com/products/syspulse)
+- Support: [darkssel@proton.me](mailto:darkssel@proton.me)
 
 *Made by Darkssel, a solo dev who wanted a quieter PC.*

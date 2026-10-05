@@ -1,3 +1,11 @@
+# ⚠️ IMPORTANT: This Repository Contains NO Source Code
+
+This is a **documentation repository** for SysPulse.
+
+The software source code is **proprietary** and **not included** here.
+
+For the actual software, visit: **👉 [syspulse.pro](https://syspulse.pro)**
+
 # 🛡️ SysPulse
 
 **A lightweight Windows security monitor that sends you instant Telegram alerts.**
